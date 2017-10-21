@@ -1,0 +1,6 @@
+<meta>
+	<info author="RussianDoge" version="1.0" />
+	<script src="rendering.luac" type="client" />
+	<script src="commands.luac" type="server" />
+	<script src="local.luac" type="server" />
+</meta>
